@@ -56,3 +56,28 @@ How to Run the Project:
 	1.	Download or clone the repository from GitHub.
 	2.	Compile and run the Java code in your preferred IDE or using the command line.
 	3.	Follow the prompts to play the game and enjoy!
+
+
+Internship Task 3 :- Tic-Tac-Toe Game 🎮
+
+A classic Tic-Tac-Toe game built using Java and Swing for the GUI. This game offers a simple and interactive way to play Tic-Tac-Toe against another player with a user-friendly interface.
+
+Features
+
+	•	Two-player mode: Alternates turns between player X and player O.
+	•	Dynamic game board: 3x3 grid with real-time updates.
+	•	Win/Tie detection: Automatically detects win conditions for rows, columns, and diagonals, or declares a tie.
+	•	Reset functionality: Easily reset the board to start a new game.
+	•	Responsive UI: Uses Swing components for a visually appealing and responsive interface.
+
+Technologies Used
+
+	•	Java: Core logic and game mechanics.
+	•	Swing: GUI components and design.
+
+How to Play
+
+	1.	Player X goes first, followed by player O.
+	2.	Players take turns clicking on empty tiles to place their marker (X or O).
+	3.	The game ends when one player wins or there is a tie.
+	4.	Click the Reset button to start a new game.
