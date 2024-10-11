@@ -81,3 +81,35 @@ How to Play
 	2.	Players take turns clicking on empty tiles to place their marker (X or O).
 	3.	The game ends when one player wins or there is a tie.
 	4.	Click the Reset button to start a new game.
+
+
+Internship Task 4 :- Connect Four Game in Java
+
+This is a console-based implementation of the classic **Connect Four** game written in Java. The game allows two players to take turns placing pieces on a 6x7 grid with the goal of connecting four pieces vertically, horizontally, or diagonally.
+
+Features
+
+1. Two-Player Gameplay**: Supports turn-based play for two players.
+2. Dynamic Board Display**: Automatically updates the board after each move.
+3. Input Validation**: Ensures that players can only choose valid columns that are not already full.
+4. Win Detection**: Checks for horizontal, vertical, and diagonal connections of four pieces.
+5. Draw Detection**: Detects if the board is full without any winner.
+6. Smooth User Experience**: User-friendly prompts guide players throughout the game.
+
+
+How It Works
+
+1. Players take turns selecting a column (1-7) to drop their pieces (`X` or `O`).
+2. The game updates the board and checks for any winning conditions after each move.
+3. The first player to connect four pieces in a line wins.
+4. If the board is filled without a winner, the game ends in a draw.
+
+
+Technologies Used
+
+1. Java: Core programming language used to implement the game logic.
+2. Console Input/Output: Used for user interaction and display of the game board.
+
+How to Run
+1. Clone the repository to your local machine.
+2. Compile the Java file:
